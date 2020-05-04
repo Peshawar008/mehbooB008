@@ -53,9 +53,9 @@ logo = """
 \033[1;96══█❚| | | || | | || | | | | | || |_) |══█❚
 \033[1;96══█❚(_) (_)(_) (_)(_) (_)_) (_)(____/ ══█❚
 \033[1;91m█❚════════════════════════════════════█❚
-\033[1;96mAuthor  \033[1;93m: \033[1;92mAhmad Sana Farooq
-\033[1;96mFacebook  \033[1;93m: \033[1;92mh.ahmad.0011
-\033[1;96mYoutube \033[1;93m: \033[1;92mTechnical Tigers
+\033[1;96mAuthor  \033[1;93m: \033[1;92Mehboob Ali
+\033[1;96mFacebook  \033[1;93m: \033[1;92mh.mehboob.0011
+\033[1;96mYoutube \033[1;93m: \033[1;92mmhtpylm
 \033[1;91m█❚════════════════════════════════════█❚"""
 
 def tik():
@@ -90,8 +90,8 @@ print  """
 \033[1;96mYoutube \033[1;93m: \033[1;92mTechnical Tigers
 \033[1;91m█❚════════════════════════════════════█❚"""
 
-CorrectUsername = "rb"
-CorrectPassword = "ahmad"
+CorrectUsername = "mboob"
+CorrectPassword = "mboob"
 
 loop = 'true'
 while (loop == 'true'):
